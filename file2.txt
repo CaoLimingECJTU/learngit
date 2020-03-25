@@ -1,0 +1,3 @@
+Git commit you and file3.txt on one time.
+Git is a good tool.
+I will use Git everyday.

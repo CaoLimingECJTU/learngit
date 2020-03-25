@@ -1,0 +1,1 @@
+Git will commit you with file2.txt together.
