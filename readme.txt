@@ -5,3 +5,4 @@ Use git will have a good time.
 Git tracks changes of files.
 # add test with eidt. 
 Creating a new branch is quick AND simple.
+bug should be repaired first.
