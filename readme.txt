@@ -3,4 +3,5 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Use git will have a good time.
 Git tracks changes of files.
+bug should be repaired first.
 
